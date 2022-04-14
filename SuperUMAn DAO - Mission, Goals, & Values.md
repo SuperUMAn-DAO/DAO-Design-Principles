@@ -42,7 +42,7 @@ Through nurturing talent and caring about each other's aims and ambitions, we em
 
 - **Creating Cool Shit:** We are participating in a revolution that affects every domain of our lives and building the future of human coordination.
 
-Summary
+## Summary
 
 The Core Mission of the SuperUMAn DAO is to communicate the true power of universal access to markets and the benefits of Permissionless DeFi Contracts to the wide world. To be effective in our mission, we strive to move from students to teachers. Through education, we aim to be concise as we articulate the message of universal access to markets. We aspire to deliver markets to everyone, everywhere. 
 
