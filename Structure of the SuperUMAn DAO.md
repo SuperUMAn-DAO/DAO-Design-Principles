@@ -1,5 +1,5 @@
 ## Preamble
-The SuperUMAn DAO is organised into functions with 9 teams as documented below together with their areas of responsibility. We aim to be a maximally decentralised DAO with an ambition to aim for a structure as outlined in this [doc](https://docs.google.com/document/d/1_rPODDWQhZu6oAoQQiy_3oQngOVhu8XLuqeLFgk1Yzg/edit)
+The SuperUMAn DAO is organised into functions with 9 teams as documented below together with their areas of responsibility. We aim to be a maximally decentralised DAO with an ambition to aim for a structure as outlined in this [doc](https://docs.google.com/document/d/1_rPODDWQhZu6oAoQQiy_3oQngOVhu8XLuqeLFgk1Yzg/edit).
 
 ## Overview of Organisational Structure
 
