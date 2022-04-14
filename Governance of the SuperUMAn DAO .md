@@ -27,12 +27,15 @@ The governance mechanism consists of 2 tracks:
 The governance mechanism is comprised of a four step process, involving Discord, Discourse and Snapshot. These will be linked together with Discord providing access to Discourse governance forums to identify the membership tiers which will be reflected in Discord roles in order that the members meeting the quorum requirement can be identified. The minimum amount of time it would take for a proposal to be passed is 8 days.
 
 **Stage 1 - Optional tempcheck**
- There will be a recommended temp check on Discord, general support, feedback suggestions, collaboration on proposal.
+
+There will be a recommended temp check on Discord, general support, feedback suggestions, collaboration on proposal.
 
 **Stage 2 - Compulsory Signal** 
+
 A rough proposal will be posted on Discourse, to gather feedback including likes. If the post receives 5 likes, it can then pass to the formal proposal stage. If the proposal has not received 5 likes after 7 days then the topic will be closed. Anyone can make a proposal. Proposals will be announced on a Discord announcements channel. 
 
 **Stage 3 - Formal Proposal and poll**
+
 A formal proposal on Discourse can be submitted once the rough proposal in the above stage has received 5 likes. The proposal may be slightly altered, however it should be transparently in the same spirit. This proposal will include a poll with three elements
  - Yes
  - More Discussion
