@@ -14,14 +14,14 @@ Responsible for the creation and provision of educational content, acknowledging
 
 ## Operations Team 
 Responsible for supporting organizational functions through planning, booking, organization, notes, and supporting governance, including liaison with other teams.
-	- **Supporting events and meetings**
-	  Booking, minuting and recording meetings
-  - **Bulletin**
-    Collates and generates a bulletin based in daily/weekly ongoings
-  - **Server/Tool Management**
-    Organizes, oversees and handles tools required by the DAO
-	- **Community Management**
-	  Responsible for community moderation.
+- **Supporting events and meetings**
+	- Booking, minuting and recording meetings
+- **Bulletin**
+	- Collates and generates a bulletin based in daily/weekly ongoings
+- **Server/Tool Management**
+	- Organizes, oversees and handles tools required by the DAO
+- **Community Management**
+	- Responsible for community moderation.
 
 ## Social Media Team  (Growth and Development Function)
 Embodies the persona of the SuperUMAns on social media handles
