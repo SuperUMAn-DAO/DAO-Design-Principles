@@ -40,6 +40,7 @@ A formal proposal on Discourse can be submitted once the rough proposal in the a
  - Yes
  - More Discussion
  - No
+
 In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for 5-7 days. Formal proposals will be announced on a Discord announcements channel 
 
 **Stage 4 - Snapshot vote**
