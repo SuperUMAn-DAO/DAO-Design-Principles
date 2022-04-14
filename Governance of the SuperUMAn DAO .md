@@ -43,6 +43,7 @@ A formal proposal on Discourse can be submitted once the rough proposal in the a
 In order for a proposal to pass to a Snapshot vote a simple majority (51% of votes cast) is required for Yes. In order for this vote to be valid there is a quorum of 10% SuperUMAns and 3 UMAsters, with the poll running for 5-7 days. Formal proposals will be announced on a Discord announcements channel 
 
 **Stage 4 - Snapshot vote**
+
 If there is more than 51% for yes in the poll in the stage above, the proposal then moves to a  Snapshot vote, comprised of a crisp summary of the proposal with link(s) to discussion on Discourse.  This Snapshot vote requires a 51% majority and a quorum of 50% of the total voting power of the DAO. The snapshot will be open for 3-7 days.
 
 ## Fast Track / Expedited Governance
@@ -53,15 +54,19 @@ Under this track, proposals can be brought forward (expedited) for quicker delib
 Proposals which modify the following:
 - a. Proposals for membership status changes;
 - b. Proposals for compensation level changes.
+
 These are not eligible for expedited governance.
 
 **Stage 1 - Declaration**
+
 The Optional Temp Check is omitted in this track. However, the author must declare in the beginning of the proposal that they intend to submit their proposal under the Expedited Governance track.
 
 **Stage 2 - Signal**
+
 This stage is omitted under Expedited Governance.
 
 **Stage 3 - Formal Proposal**
+
 A formal proposal shall be submitted on Discourse with a poll consisting of the following:
   - Yes (or various proposed Options)
   - More discussions needed
@@ -81,20 +86,25 @@ A formal proposal shall be submitted on Discourse with a poll consisting of the 
 - In the event that at the end of the poll run time the quorum or passing vote requirements are not met, the proposal is considered Failed (see ‘Failed Proposals under Expedited Governance’).
 
 **Failed Proposals under Expedited Governance**
+
 If the proposal has Failed at any stage, the proposal is not eligible to be resubmitted under the Expedited Governance track.
 
 ## Utilising Treasury Assets to Vote in Governance or DVM Votes
 
 **Stage 1 - Proposal** 
+
 A proposal on how to vote on the DVM or another governance proposal is made in a dedicated channel in the SuperUMAn Discord
 
 **Stage 2a - Proposal is not Disputed**
+
 If the proposed vote is not disputed within 2 hours, the proposal is passed directly to a snapshot poll with a voting window of 4 hours.  
 
 **Stage 2b - Proposal is Disputed** 
+
 If the proposed vote is disputed within the 2 hour window a discord poll is run with a window of 2 hours. If the proposed vote is confirmed, the proposal is passed to Snapshot with a voting window of 4 hours. If the Discord poll does not confirm the proposal, another proposal may be made as per Stage 1.
 
 **Stage 3 - Snapshot Poll**
+
 A simple majority is required to trigger the on-chain voting proposal. In the case of UMA DVM votes this will trigger both the commit vote, and the reveal vote 24 hours later.
 
 ## Mechanism for Confirming Membership Tier changes
