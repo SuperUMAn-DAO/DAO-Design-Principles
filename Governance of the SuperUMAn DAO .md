@@ -84,15 +84,16 @@ The poll run length is reduced to 48 hours.
 In the event that at the end of the poll run time the quorum, endorsement or passing vote requirements are not met, the proposal is considered Failed (see ‘Failed Proposals under Expedited Governance’).
 
 **Stage 4 - Snapshot Proposal**
-a. Provided that the criteria for passing Stage 3 of the proposal is met, then the proposal shall be posted on Snapshot following the same formatting guidelines as Regular Governance with the additional criteria:
 
-b. The quorum for the Snapshot vote (Stage 4) is 70% of total voting power of the entire DAO;
+Provided that the criteria for passing Stage 3 of the proposal is met, then the proposal shall be posted on Snapshot following the same formatting guidelines as Regular Governance with the additional criteria:
 
-c. The threshold for a passing vote is 80%.
+The quorum for the Snapshot vote (Stage 4) is 70% of total voting power of the entire DAO;
 
-d. The Snapshot run length is reduced to 48 hours.
+The threshold for a passing vote is 80%.
 
-e. In the event that at the end of the poll run time the quorum or passing vote requirements are not met, the proposal is considered Failed (see ‘Failed Proposals under Expedited Governance’).
+The Snapshot run length is reduced to 48 hours.
+
+In the event that at the end of the poll run time the quorum or passing vote requirements are not met, the proposal is considered Failed (see ‘Failed Proposals under Expedited Governance’).
 
 **Failed Proposals under Expedited Governance**
 
