@@ -25,59 +25,59 @@ Responsible for supporting organizational functions through planning, booking, o
 
 ## Social Media Team  (Growth and Development Function)
 Embodies the persona of the SuperUMAns on social media handles
-  - **Planned, Organic & Support Posts**
-	  Organises the scheduling of posts
-  - **Copywriters**
-	  Creates content for the social media team
-  - **Campaigns**
-    Organises social media campaigns,social engagement; interactive and engaging with its platform audience  
+- **Planned, Organic & Support Posts**
+	- Organises the scheduling of posts
+- **Copywriters**
+	- Creates content for the social media team
+- **Campaigns**
+	- Organises social media campaigns,social engagement; interactive and engaging with its platform audience  
 
 ## Onboarding Team 
 Recruits new members to the DAO and helps them get up to speed
-  - **Member Recruitment**
-	  Identifies and recruits new members
-	- **New Recruits**
-	  Trains up new recruits
+- **Member Recruitment**
+	- Identifies and recruits new members
+- **New Recruits**
+	- Trains up new recruits
 
 ## Ambassadors Team 
 Responsible for outreach work with other DAOs, internal, dedicated to integrations on the front lines, committed to the SuperUMAn DAO as well as other communities.
-	- **Embedded Ambassadors**
-	  Ambassadors that are closely linked to other DAOs and are primary point of contact; this team would include Honorary DAOplomats
-	- **Support Ambassadors**
-	  Ambassadors that are familiar with a range of products and can technically support their 
+- **Embedded Ambassadors**
+	- Ambassadors that are closely linked to other DAOs and are primary point of contact; this team would include Honorary DAOplomats.
+- **Support Ambassadors**
+	- Ambassadors that are familiar with a range of products and can technically support their 
 use.
-	- **Scouting and Outreach Ambassadors**
-	  Responsible for lead generation and identifying needs of targets.
+- **Scouting and Outreach Ambassadors**
+	- Responsible for lead generation and identifying needs of targets.
 
 ## Content Team (function of Growth and Development)
 Responsible for developing content and developing more streams of content as required.
-	- **Content production**
-	  Responsible for producing content for the DAO 
-	- **Brand Champions**
-	  Responsible for overseeing adherence to brand standards
+- **Content production**
+	- Responsible for producing content for the DAO. 
+- **Brand Champions**
+	- Responsible for overseeing adherence to brand standards.
 
 ## Treasury Management Team
-Responsible accounting, budget forecasting and money management
-  - **Budgeting, Grants and Bounties**
-    Responsible for setting budgets as well as evaluating bounty programmes and grants applications.
-  - **Reporting**
-    Responsible for tracking expenses.
-  - **Diversification & Investments**
-    Responsible for planning and execution of diversification and investment strategies for the DAO.
+Responsible accounting, budget forecasting and money management.
+- **Budgeting, Grants and Bounties**
+	- Responsible for setting budgets as well as evaluating bounty programmes and grants applications.
+- **Reporting**
+	- Responsible for tracking expenses.
+- **Diversification & Investments**
+	- Responsible for planning and execution of diversification and investment strategies for the DAO.
 
 
 ## Governance Team
 Responsible for managing the governance process.
-  - **Process Management**
-	  Responsible for managing governance proposal process incl. Onchain proposals
-	- **Treasury Liaison**
-	  Responsible for budget tracking and financial implications of proposals.
-	- **Protocol Voting Team**
-	  Responsible for utilising treasury protocol tokens for voting in respective protocols.
+- **Process Management**
+	- Responsible for managing governance proposal process incl. Onchain proposals.
+- **Treasury Liaison**
+	- Responsible for budget tracking and financial implications of proposals.
+- **Protocol Voting Team**
+	- Responsible for utilising treasury protocol tokens for voting in respective protocols.
 
 ## Research and Products Team
 Responsible for research and building its own products in conjunction with UMA tools in conjunction with ambassadors.
-	- **Evaluation and Testing**
-	  Gathering feedback and user integration testing, including security considerations
-  - **Product Development**
-	  Developing new products including financial and retail products.
+- **Evaluation and Testing**
+	- Gathering feedback and user integration testing, including security considerations.
+- **Product Development**
+	- Developing new products including financial and retail products.
