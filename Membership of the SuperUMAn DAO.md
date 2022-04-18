@@ -41,7 +41,7 @@ There will be a clearly defined process for a recruit to move to the SuperUMAn r
 - An example of a concrete initiative 
 - Sponsorship by an existing SuperUMAn who can vouch for their activity.
 
-The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place every six weeks, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.
+The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place on the last 2 weeks of each quarter, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.
 
 ## Becoming UMAster
 UMAsters are the critical elements of the DAO’s functioning and take on specific responsibilities for an area of work, either taking on a specific role or function or generally providing DAO leadership. It is expected that team leads would be UMAsters.
