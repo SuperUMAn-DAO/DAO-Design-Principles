@@ -41,7 +41,12 @@ There will be a clearly defined process for a recruit to move to the SuperUMAn r
 - An example of a concrete initiative 
 - Sponsorship by an existing SuperUMAn who can vouch for their activity.
 
-The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place every six weeks, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.
+The promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote will take place on the last 2 weeks of each quarter, if successful, the recruit NFT will be burnt and a new SuperUMAn NFT will be minted and issued.
+
+## Becoming Core SuperUMAn:
+A Core SuperUMAn is not officially part of the membership of the DAO as becoming a Core SuperUMAn doesn’t change their voting weight. Their voting weight is the same as a SuperUMAn. Core SuperUMAn are seen as consistent contributing members of the DAO which have a large enough impact to receive higher compensation compared to a SuperUMAn.
+
+There will be a promotions process through a soft consensus based around a Discord poll followed by a confirmatory governance vote that will take place in the last 2 weeks of each quarter. This process is further defined under Mechanism for Confirming Membership Tier changes.
 
 ## Becoming UMAster
 UMAsters are the critical elements of the DAO’s functioning and take on specific responsibilities for an area of work, either taking on a specific role or function or generally providing DAO leadership. It is expected that team leads would be UMAsters.
